@@ -1,5 +1,4 @@
 Jish here, reporting for duty 🫡 <br>
-[Email](josh@astrotek.app) <br>
 
 
 
