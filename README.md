@@ -1,7 +1,5 @@
 Jish here, reporting for duty 🫡 <br>
 
-Building in snek
-
 
 <!---
 jishjish/jishjish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
